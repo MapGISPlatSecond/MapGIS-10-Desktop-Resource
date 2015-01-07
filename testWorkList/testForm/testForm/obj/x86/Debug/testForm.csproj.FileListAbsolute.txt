@@ -1,0 +1,7 @@
+D:\GitHub\MapGIS-10-Desktop-Resource\testWorkList\testForm\testForm\bin\Debug\testForm.exe
+D:\GitHub\MapGIS-10-Desktop-Resource\testWorkList\testForm\testForm\bin\Debug\testForm.pdb
+D:\GitHub\MapGIS-10-Desktop-Resource\testWorkList\testForm\testForm\obj\x86\Debug\testForm.Form1.resources
+D:\GitHub\MapGIS-10-Desktop-Resource\testWorkList\testForm\testForm\obj\x86\Debug\testForm.Properties.Resources.resources
+D:\GitHub\MapGIS-10-Desktop-Resource\testWorkList\testForm\testForm\obj\x86\Debug\testForm.csproj.GenerateResource.Cache
+D:\GitHub\MapGIS-10-Desktop-Resource\testWorkList\testForm\testForm\obj\x86\Debug\testForm.exe
+D:\GitHub\MapGIS-10-Desktop-Resource\testWorkList\testForm\testForm\obj\x86\Debug\testForm.pdb
