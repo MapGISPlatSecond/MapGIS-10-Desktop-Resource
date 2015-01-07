@@ -1,0 +1,59 @@
+/* //////////////////////////////////////////自定义//////////////////////////////////////*/
+.icon-pq{
+	background:url('icons/pq.png') no-repeat;
+}
+.icon-circlecq{
+	background:url('icons/circlecq.png') no-repeat;
+}
+.icon-circleq{
+	background:url('icons/circleq.png') no-repeat;
+}
+.icon-conq{
+	background:url('icons/conq.png') no-repeat;
+}
+.icon-linecq{
+	background:url('icons/linecq.png') no-repeat;
+}
+.icon-lq{
+	background:url('icons/lq.png') no-repeat;
+}
+.icon-pgoncq{
+	background:url('icons/pgoncq.png') no-repeat;
+}
+.icon-pgonQ{
+	background:url('icons/pgonQ.png') no-repeat;
+}
+.icon-pntcq{
+	background:url('icons/pntcq.png') no-repeat;
+}
+.icon-rectcq{
+	background:url('icons/rectcq.png') no-repeat;
+}
+.icon-rectq{
+	background:url('icons/rectq.png') no-repeat;
+}
+.icon-stop{
+	background:url('icons/stop.png') no-repeat;
+}
+.icon-flash{
+	background:url('icons/flash.png') no-repeat;
+}
+
+.icon-trace{
+	background:url('icons/l3.png') no-repeat;
+}
+.icon-car{
+	background:url('icons/car.png') no-repeat;
+}
+
+/*表格中工具面板样式*/  
+div#LJZZDialog
+{
+    width:inherit;
+    height:inherit;
+    border:0px;
+    padding-left:5px;
+    font-family:Microsoft YaHei;
+    font-size:13px;
+    vertical-align:top;
+    }
