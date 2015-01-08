@@ -1,0 +1,129 @@
+﻿.olControlSelfNavToolbar {
+    top: 10px;
+    left: 70px;
+
+}
+.olControlSelfNavToolbar div {
+    float: left;
+}
+
+.olControlSelfNavToolbar .olControlNavigationItemInactive {
+    background-position: -103px -1px;
+}
+.olControlSelfNavToolbar .olControlNavigationItemActive  {
+    background-position: -103px -24px;
+}
+.olControlSelfNavToolbar .olControlZoomBoxItemInactive {
+    background-position: -128px -1px;
+}
+.olControlSelfNavToolbar .olControlZoomBoxItemActive  {
+    background-position: -128px -24px;
+}
+.olControlSelfNavToolbar .olControlSelfZoomInItemInactive {
+    background-position: -145px -1px;
+}
+.olControlSelfNavToolbar .olControlSelfZoomInItemActive  {
+    background-position: -128px -24px;
+}
+
+
+.olControlSelfNavToolbar .olControlRefreshItemInactive {
+    background-image: url("../libs/theme/default/img/refresh.png");
+    background-position:4px 4px;
+}
+.olControlSelfNavToolbar .olControlClearItemInactive {
+    background-image: url("../libs/theme/default/img/clear.png");
+}
+.olControlSelfNavToolbar .olControlZoomToMaxExtentItemInactive {
+    background-image: url("../libs/theme/default/img/restore.png");
+    background-position:6px 6px;
+}
+
+
+
+.olControlSelfNavToolbar {
+    margin: 5px 5px 0 0;
+}
+.olControlSelfNavToolbar div
+ {
+    background-image: url("../libs/theme/default/img/editing_tool_bar.png");
+    background-repeat: no-repeat;
+    margin: 0 0 5px 5px;
+    width: 24px;
+    height: 22px;
+    cursor: pointer
+}
+
+
+/*****************************  popup syple *************************************/
+
+.olPopupContent {
+    overflow: visible !important;
+    padding: 0 !important;
+}
+.olPopup {
+    z-index: 1005 !important;
+}
+.olwidgetPopupContent {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-radius: 1.2em 1.2em 1.2em 1.2em;
+    box-shadow: 0 3px 14px rgba(0, 0, 0, 0.35);
+    overflow: auto;
+    padding: 10px 8px 8px;
+}
+.olwidgetPopupCloseBox {
+    background: url("../libs/theme/default/img/close.gif") no-repeat scroll -80px 0 #FFFFFF;
+    cursor: pointer;
+    height: 0;
+    overflow: hidden;
+    padding-top: 6px;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    width: 16px;
+}
+.olwidgetPopupCloseBox:hover {
+    background-position: -64px 0;
+}
+.olwidgetPopupStemTL,.olwidgetPopupStemTR {
+    -moz-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+    background: none repeat scroll 0 0 #FFFFFF;
+    z-index: 1;
+}
+
+.olwidgetPopupStemBL,.olwidgetPopupStemBR {
+    -moz-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+    background: none repeat scroll 0 0 #FFFFFF;
+    z-index: 1;
+}
+
+/*************************** popup end ***********************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

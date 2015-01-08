@@ -1,0 +1,35 @@
+@import "../../jslib/easyui/themes/default/easyui.css";
+@import "../../jslib/easyui/themes/icon.css";
+/*@import "../../bootstrap2.0/css/bootstrap.min.css";   */
+@import "../../jslib/zondy/libs/zondy-style-thin.css";
+@import "../../jslib/pagination/pager.css";
+@import "icon.css";
+
+
+html body {
+    overflow:auto;
+}
+body {
+	height: 100%;
+    width: 100%;
+    background-color: #fff;
+    margin: 0;
+    color: #4c4c4c;
+    padding: 0;
+    min-width: 960px;
+}
+
+.merchantlist {overflow-y:auto;background-color: #e1e1e8;}
+#addr_list li {position:relative; font-size:12px;line-height:20px; list-style: none;}
+#addr_list li a {display:block; color:#333; padding:5px 5px 5px 33px;margin-left:0px; border-bottom:1px solid #ccc;}
+#addr_list li em {position:absolute; top:15px; left:0px; background:url(../../images/red.png); width:24px; height:31px; text-align:center; color:#fff; font-style:normal; font:14px/24px 'Microsoft YaHei';}
+#addr_list li a:hover {color:#333;}
+#addr_list li a:hover em {background-position:0 -31px;}
+#addr_list li .poiname {cursor:pointer;display:inline-block;font:12px 'Microsoft YaHei'; font-weight:bold; color:#2083cf; line-height:20px;}
+#addr_list li .distance {display:inline-block;float:right;font-size:12px;line-height:20px;cursor:pointer;color: gray;}
+#addr_list li a .poi_item_div {cursor:pointer;}
+
+.legendUICjb {list-style: none;width: 150px;background-color:#E0ECFF;height: 100%;margin: 0;padding: 10px 0 0 5px;}
+.legendUICjb li{height: 20px;line-height: 20px;}
+.legendUI {list-style: none;width: 150px;background-color:#E0ECFF;height: 100%;margin: 0;padding: 5px 0 0 0;}
+.legendUI li{height: 20px;line-height: 20px;margin-left: 5px}

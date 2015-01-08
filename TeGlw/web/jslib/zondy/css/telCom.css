@@ -1,0 +1,55 @@
+.olControlSelfNavToolbar {
+    top: 10px;
+    left: 70px;
+
+}
+.olControlSelfNavToolbar div {
+    float: left;
+}
+
+.olControlSelfNavToolbar .olControlNavigationItemInactive {
+    background-position: -103px -1px;
+}
+.olControlSelfNavToolbar .olControlNavigationItemActive  {
+    background-position: -103px -24px;
+}
+.olControlSelfNavToolbar .olControlZoomBoxItemInactive {
+    background-position: -128px -1px;
+}
+.olControlSelfNavToolbar .olControlZoomBoxItemActive  {
+    background-position: -128px -24px;
+}
+.olControlSelfNavToolbar .olControlSelfZoomInItemInactive {
+    background-position: -145px -1px;
+}
+.olControlSelfNavToolbar .olControlSelfZoomInItemActive  {
+    background-position: -128px -24px;
+}
+
+
+.olControlSelfNavToolbar .olControlRefreshItemInactive {
+    background-image: url("../libs/theme/default/img/refresh.png");
+    background-position:4px 4px;
+}
+.olControlSelfNavToolbar .olControlClearItemInactive {
+    background-image: url("../libs/theme/default/img/clear.png");
+}
+.olControlSelfNavToolbar .olControlZoomToMaxExtentItemInactive {
+    background-image: url("../libs/theme/default/img/restore.png");
+    background-position:6px 6px;
+}
+
+
+
+.olControlSelfNavToolbar {
+    margin: 5px 5px 0 0;
+}
+.olControlSelfNavToolbar div
+{
+    background-image: url("../libs/theme/default/img/editing_tool_bar.png");
+    background-repeat: no-repeat;
+    margin: 0 0 5px 5px;
+    width: 24px;
+    height: 22px;
+    cursor: pointer
+}

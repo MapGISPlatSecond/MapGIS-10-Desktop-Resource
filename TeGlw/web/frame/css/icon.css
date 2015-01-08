@@ -1,0 +1,16 @@
+.icon-redpoi{
+    background:url('../../images/red.png') no-repeat;
+    width: 24px;
+    height: 31px;
+}
+.icon-bluepoi{
+    background:url('../../images/blue.png') no-repeat;
+    width: 24px;
+    height: 31px;
+}
+
+.icon-loadingimg
+{
+    background: url(../../images/loading.gif) no-repeat left top;
+    height:40px;
+}
