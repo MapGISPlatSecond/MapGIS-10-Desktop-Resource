@@ -1,0 +1,10 @@
+D:\openlayer示例\WCFRestDatabase\test\bin\test.dll
+D:\openlayer示例\WCFRestDatabase\test\bin\test.pdb
+D:\openlayer示例\WCFRestDatabase\test\obj\Debug\ResolveAssemblyReference.cache
+D:\openlayer示例\WCFRestDatabase\test\obj\Debug\test.dll
+D:\openlayer示例\WCFRestDatabase\test\obj\Debug\test.pdb
+E:\在线案例\test\bin\test.dll
+E:\在线案例\test\bin\test.pdb
+E:\在线案例\test\obj\Debug\ResolveAssemblyReference.cache
+E:\在线案例\test\obj\Debug\test.dll
+E:\在线案例\test\obj\Debug\test.pdb
